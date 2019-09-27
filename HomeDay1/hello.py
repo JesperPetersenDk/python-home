@@ -18,3 +18,6 @@ print(name.islower())
 
 #Fortæller hvor mange tegn der er?
 print(len(name))
+
+#ang hvilket bogstave den skal fremvis her.
+print(name[0])
